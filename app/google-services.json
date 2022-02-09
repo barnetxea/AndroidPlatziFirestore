@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922365911936",
+    "project_id": "crypto-665ba",
+    "storage_bucket": "crypto-665ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922365911936:android:9ed6d5fd91be4ed1f1d765",
+        "android_client_info": {
+          "package_name": "com.example.criptotienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922365911936-dcph6m5dnptmlri0jrhk60mqbt0b7ld2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD49BWJShw6wUKLpHDCpsAOudzF3CUfX4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922365911936-dcph6m5dnptmlri0jrhk60mqbt0b7ld2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
